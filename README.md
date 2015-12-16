@@ -12,7 +12,7 @@ All users would have the option to create an event as demonstrated in our ‘Mai
 ![Create Event](https://github.com/OmarAlmootassem/Images/blob/master/ezShare4.png?raw=true)
 
 ##Manage Events Activity
-Each user will have a list of events they have attended or supervised. The list would also display the Event ID’s for each event. The user would be able to ‘Delete’ and ‘End’ events on this page. Each time a user enters an event or creates one, it will be displayed in the ‘Manage Events’ page. 
+Each user will have a list of events they have attended or supervised. The list would also display the Event ID’s for each event. The user would be able to start, end and delete events on this page. Each time a user enters an event or creates one, it will be displayed in the ‘Manage Events’ page. 
 
 ![Manage Events](https://github.com/OmarAlmootassem/Images/blob/master/ezShare3.png?raw=true)
 
