@@ -1,1 +1,7 @@
 # ezShare
+ezShare is an android application that revolves around the idea of data sharing. The data we are interested in are sharable images taken by users during an event.In order to gain a better understanding of the project, imagine a scenario where a wedding takes place at a location called ‘ABC Banquet Hall’. Our application would allow an event manager to create an event in a defined proximity of ABC Banquet Hall. The event would then be given a derived event ID which would allow other users to join the event and be the part of  the shareable database. Any image captured during the event can be uploaded onto that certain event database which would be accessible to everyone who has joined the event with the event ID. The database used to hold the event information and pictures is built using MySQL and PHP.
+
+##Main Activity
+The design of our main view includes the option to get started with the event as soon as you run the application, the User Interface is designed to help normal users join an event instantly. The Event ID is a 5 digit integer that would be derived for each event. The ‘Create Event’ option is available for a super user or the event manager to create the event. The option to ‘Manage Events’ is also available in order to manage all current and previous events a user has been a part of. 
+
+![Main Activity](https://github.com/OmarAlmootassem/Images/blob/master/ezShare1.png?raw=true)
